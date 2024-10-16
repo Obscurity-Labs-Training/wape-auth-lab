@@ -15,18 +15,18 @@ Both authentication mechanisms are implemented using FastAPI, and you can easily
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/auth-demo-fastapi.git
-   cd auth-demo-fastapi
+   git clone https://github.com/Obscurity-Labs-Training/wape-auth-lab.git
+   cd wape-auth-lab
    ```
 
 2. **Build the Docker image**:
    ```bash
-   docker-compose build
+   docker compose build
    ```
 
 3. **Run the application**:
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
 The application will be available at `http://localhost:8000`.
